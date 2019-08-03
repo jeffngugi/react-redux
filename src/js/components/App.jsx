@@ -1,6 +1,6 @@
 import React from "react";
 import List from "./List.jsx";
-import Form from "./Form.jsx";
+import Form from "./Forms.jsx";
 import Post from "./Posts.jsx";
 const App = () => (
     <div className="row mt-5">
